@@ -1,32 +1,45 @@
 <template>
-  <div class="min-h-screen min-w-screen">
-    <div></div>
-    <div class="absolute mt-[20vh] ml-[44vw]">
-      <input type="number" v-model="numberOfChamps" min="1" max="50"
-        class="text-semibold mb-[12px] ml-[55px] text-xl focus:outline-none select-none bg-blue-600 text-gray-200 border-blue-400 border-2 rounded-md w-[100px] placeholder-semibold placeholder-gray-200"
-        placeholder="# Champs">
-      <div class="flex items-center pl-[40px] mb-[10px]">
-        <input type="checkbox" v-model="roleBasedGeneration" class="mr-2">
-        <label class="text-gray-200 text-lg">Of Each Role</label>
-      </div>
-      <div @click="generateChampions"
-        class="text-gray-100 font-mono text-3xl bg-blue-500 p-2 rounded-md select-none cursor-pointer">
-        Random Champs
+  <div class="min-h-screen min-w-screen flex flex-col items-center">
+    <!-- Controls Section -->
+    <div class="w-full max-w-md px-4 mt-8 md:mt-20">
+      <div class="flex flex-col items-center space-y-4">
+        <input type="number" v-model="numberOfChamps" min="1" max="50"
+          class="text-xl w-32 p-2 text-center bg-blue-600 text-gray-200 border-blue-400 border-2 rounded-md focus:outline-none select-none placeholder-gray-200"
+          placeholder="# Champs">
+
+        <div class="flex items-center space-x-2">
+          <input type="checkbox" v-model="roleBasedGeneration" class="w-4 h-4">
+          <label class="text-gray-200 text-lg">Of Each Role</label>
+        </div>
+
+        <button @click="generateChampions"
+          class="text-gray-100 font-mono text-2xl md:text-3xl bg-blue-500 p-2 rounded-md select-none cursor-pointer hover:bg-blue-600 transition-colors">
+          Random Champs
+        </button>
       </div>
     </div>
-    <div class="absolute mt-[36vh] ml-[33vw]">
-      <div class="flex pt-[20px]">
+
+    <!-- Teams Section -->
+    <div class="w-full max-w-4xl px-4 mt-8 md:mt-12">
+      <div class="flex flex-col md:flex-row justify-center space-y-4 md:space-y-0 md:space-x-4">
+        <!-- Blue Team -->
         <div
-          class="w-[310px] h-[500px] bg-blue-600/12 overflow-auto grid grid-cols-5 border-blue-500 border-2 rounded-sm mr-[10px]">
-          <img v-for="champion in blueTeam" :key="champion"
-            :src="`https://cdn.communitydragon.org/15.4.0/champion/${champion}/square`" :alt="champion" width="60"
-            height="60">
+          class="w-full md:w-[310px] h-[300px] md:h-[500px] bg-blue-600/12 overflow-auto border-blue-500 border-2 rounded-sm">
+          <div class="grid grid-cols-4 sm:grid-cols-5 gap-1 p-1">
+            <img v-for="champion in blueTeam" :key="champion"
+              :src="`https://cdn.communitydragon.org/15.4.0/champion/${champion}/square`" :alt="champion"
+              class="w-full aspect-square object-cover">
+          </div>
         </div>
+
+        <!-- Red Team -->
         <div
-          class="w-[310px] bg-red-600/12 overflow-auto grid grid-cols-5 h-[500px] border-red-500 border-2 rounded-sm ml-[10px]">
-          <img v-for="champion in redTeam" :key="champion"
-            :src="`https://cdn.communitydragon.org/15.4.0/champion/${champion}/square`" :alt="champion" width="60"
-            height="60">
+          class="w-full md:w-[310px] h-[300px] md:h-[500px] bg-red-600/12 overflow-auto border-red-500 border-2 rounded-sm">
+          <div class="grid grid-cols-4 sm:grid-cols-5 gap-1 p-1">
+            <img v-for="champion in redTeam" :key="champion"
+              :src="`https://cdn.communitydragon.org/15.4.0/champion/${champion}/square`" :alt="champion"
+              class="w-full aspect-square object-cover">
+          </div>
         </div>
       </div>
     </div>
@@ -155,7 +168,7 @@ export default {
       ])]
     },
 
-    removeBannedChamps(){
+    removeBannedChamps() {
 
     },
 

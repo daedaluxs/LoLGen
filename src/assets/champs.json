@@ -1373,4 +1373,49 @@
             "mid": 0.8
         }
     }
+    ,
+    "Smolder": {
+        "id": "Smolder",
+        "key": "901",
+        "name": "Smolder",
+        "roles": {
+            "adc": 0.9
+        }
+    }
+    ,
+    "Hwei": {
+        "id": "Hwei",
+        "key": "910",
+        "name": "Hwei",
+        "roles": {
+            "mid": 0.9
+        }
+    }
+    ,
+    "Ambessa": {
+        "id": "Ambessa",
+        "key": "799",
+        "name": "Ambessa",
+        "roles": {
+            "top": 0.9,
+            "mid": 0.1
+        }
+    }
+    ,
+    "Briar": {
+        "id": "Briar",
+        "key": "233",
+        "name": "Briar",
+        "roles": {
+            "jg": 0.9
+        }
+    },
+    "Aurora": {
+        "id": "Aurora",
+        "key": "893",
+        "name": "Aurora",
+        "roles": {
+            "mid": 0.9
+        }
+    }
 }

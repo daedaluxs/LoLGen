@@ -3,1360 +3,1374 @@
         "id": "Aatrox",
         "key": "266",
         "name": "Aatrox",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Ahri": {
         "id": "Ahri",
         "key": "103",
         "name": "Ahri",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Akali": {
         "id": "Akali",
         "key": "84",
         "name": "Akali",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.5,
+            "top": 0.5
+        }
     },
     "Akshan": {
         "id": "Akshan",
         "key": "166",
         "name": "Akshan",
-        "roles": [
-            "mid",
-            "adc"
-        ]
+        "roles": {
+            "mid": 0.9,
+            "adc": 0.1
+        }
     },
     "Alistar": {
         "id": "Alistar",
         "key": "12",
         "name": "Alistar",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 0.9
+        }
     },
     "Amumu": {
         "id": "Amumu",
         "key": "32",
         "name": "Amumu",
-        "roles": [
-            "jg",
-            "supp"
-        ]
+        "roles": {
+            "jg": 0.8,
+            "supp": 0.2
+        }
     },
     "Anivia": {
         "id": "Anivia",
         "key": "34",
         "name": "Anivia",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 0.9
+        }
     },
     "Annie": {
         "id": "Annie",
         "key": "1",
         "name": "Annie",
-        "roles": [
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "mid": 0.8,
+            "supp": 0.2
+        }
     },
     "Aphelios": {
         "id": "Aphelios",
         "key": "523",
         "name": "Aphelios",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Ashe": {
         "id": "Ashe",
         "key": "22",
         "name": "Ashe",
-        "roles": [
-            "adc",
-            "supp"
-        ]
+        "roles": {
+            "adc": 0.7,
+            "supp": 0.3
+        }
     },
     "AurelionSol": {
         "id": "AurelionSol",
         "key": "136",
         "name": "Aurelion Sol",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Azir": {
         "id": "Azir",
         "key": "268",
         "name": "Azir",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Bard": {
         "id": "Bard",
         "key": "432",
         "name": "Bard",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Belveth": {
         "id": "Belveth",
         "key": "200",
         "name": "Bel'Veth",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Blitzcrank": {
         "id": "Blitzcrank",
         "key": "53",
         "name": "Blitzcrank",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Brand": {
         "id": "Brand",
         "key": "63",
         "name": "Brand",
-        "roles": [
-            "supp",
-            "mid"
-        ]
+        "roles": {
+            "supp": 0.6,
+            "mid": 0.5
+        }
     },
     "Braum": {
         "id": "Braum",
         "key": "201",
         "name": "Braum",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Caitlyn": {
         "id": "Caitlyn",
         "key": "51",
         "name": "Caitlyn",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Camille": {
         "id": "Camille",
         "key": "164",
         "name": "Camille",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Cassiopeia": {
         "id": "Cassiopeia",
         "key": "69",
         "name": "Cassiopeia",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Chogath": {
         "id": "Chogath",
         "key": "31",
         "name": "Cho'Gath",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Corki": {
         "id": "Corki",
         "key": "42",
         "name": "Corki",
-        "roles": [
-            "mid",
-            "adc"
-        ]
+        "roles": {
+            "mid": 0.7,
+            "adc": 0.2
+        }
     },
     "Darius": {
         "id": "Darius",
         "key": "122",
         "name": "Darius",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Diana": {
         "id": "Diana",
         "key": "131",
         "name": "Diana",
-        "roles": [
-            "jg",
-            "mid"
-        ]
+        "roles": {
+            "jg": 0.7,
+            "mid": 0.5
+        }
     },
     "DrMundo": {
         "id": "DrMundo",
         "key": "36",
         "name": "Dr. Mundo",
-        "roles": [
-            "top",
-            "jg"
-        ]
+        "roles": {
+            "top": 0.7,
+            "jg": 0.2
+        }
     },
     "Draven": {
         "id": "Draven",
         "key": "119",
         "name": "Draven",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Ekko": {
         "id": "Ekko",
         "key": "245",
         "name": "Ekko",
-        "roles": [
-            "jg",
-            "mid"
-        ]
+        "roles": {
+            "jg": 0.7,
+            "mid": 0.5
+        }
     },
     "Elise": {
         "id": "Elise",
         "key": "60",
         "name": "Elise",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0,
+            "supp": 0.1
+        }
     },
     "Evelynn": {
         "id": "Evelynn",
         "key": "28",
         "name": "Evelynn",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Ezreal": {
         "id": "Ezreal",
         "key": "81",
         "name": "Ezreal",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Fiddlesticks": {
         "id": "Fiddlesticks",
         "key": "9",
         "name": "Fiddlesticks",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Fiora": {
         "id": "Fiora",
         "key": "114",
         "name": "Fiora",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Fizz": {
         "id": "Fizz",
         "key": "105",
         "name": "Fizz",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 0.9
+        }
     },
     "Galio": {
         "id": "Galio",
         "key": "3",
         "name": "Galio",
-        "roles": [
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "mid": 0.6,
+            "supp": 0.6
+        }
     },
     "Gangplank": {
         "id": "Gangplank",
         "key": "41",
         "name": "Gangplank",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Garen": {
         "id": "Garen",
         "key": "86",
         "name": "Garen",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Gnar": {
         "id": "Gnar",
         "key": "150",
         "name": "Gnar",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Gragas": {
         "id": "Gragas",
         "key": "79",
         "name": "Gragas",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.5,
+            "top": 0.6
+        }
     },
     "Graves": {
         "id": "Graves",
         "key": "104",
         "name": "Graves",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Gwen": {
         "id": "Gwen",
         "key": "887",
         "name": "Gwen",
-        "roles": [
-            "top",
-            "jg"
-        ]
+        "roles": {
+            "top": 0.7,
+            "jg": 0.3
+        }
     },
     "Hecarim": {
         "id": "Hecarim",
         "key": "120",
         "name": "Hecarim",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Heimerdinger": {
         "id": "Heimerdinger",
         "key": "74",
         "name": "Heimerdinger",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.4,
+            "top": 0.6
+        }
     },
     "Illaoi": {
         "id": "Illaoi",
         "key": "420",
         "name": "Illaoi",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Irelia": {
         "id": "Irelia",
         "key": "39",
         "name": "Irelia",
-        "roles": [
-            "top",
-            "mid"
-        ]
+        "roles": {
+            "top": 0.5,
+            "mid": 0.5
+        }
     },
     "Ivern": {
         "id": "Ivern",
         "key": "427",
         "name": "Ivern",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Janna": {
         "id": "Janna",
         "key": "40",
         "name": "Janna",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "JarvanIV": {
         "id": "JarvanIV",
         "key": "59",
         "name": "Jarvan IV",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Jax": {
         "id": "Jax",
         "key": "24",
         "name": "Jax",
-        "roles": [
-            "top",
-            "jg"
-        ]
+        "roles": {
+            "top": 0.7,
+            "jg": 0.2
+        }
     },
     "Jayce": {
         "id": "Jayce",
         "key": "126",
         "name": "Jayce",
-        "roles": [
-            "top",
-            "mid"
-        ]
+        "roles": {
+            "top": 0.6,
+            "mid": 0.5
+        }
     },
     "Jhin": {
         "id": "Jhin",
         "key": "202",
         "name": "Jhin",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Jinx": {
         "id": "Jinx",
         "key": "222",
         "name": "Jinx",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Kaisa": {
         "id": "Kaisa",
         "key": "145",
         "name": "Kai'Sa",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Kalista": {
         "id": "Kalista",
         "key": "429",
         "name": "Kalista",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Karma": {
         "id": "Karma",
         "key": "43",
         "name": "Karma",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Karthus": {
         "id": "Karthus",
         "key": "30",
         "name": "Karthus",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Kassadin": {
         "id": "Kassadin",
         "key": "38",
         "name": "Kassadin",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Katarina": {
         "id": "Katarina",
         "key": "55",
         "name": "Katarina",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Kayle": {
         "id": "Kayle",
         "key": "10",
         "name": "Kayle",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Kayn": {
         "id": "Kayn",
         "key": "141",
         "name": "Kayn",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Kennen": {
         "id": "Kennen",
         "key": "85",
         "name": "Kennen",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Khazix": {
         "id": "Khazix",
         "key": "121",
         "name": "Kha'Zix",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Kindred": {
         "id": "Kindred",
         "key": "203",
         "name": "Kindred",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Kled": {
         "id": "Kled",
         "key": "240",
         "name": "Kled",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "KogMaw": {
         "id": "KogMaw",
         "key": "96",
         "name": "Kog'Maw",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "KSante": {
         "id": "KSante",
         "key": "897",
         "name": "K'Sante",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Leblanc": {
         "id": "Leblanc",
         "key": "7",
         "name": "LeBlanc",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "LeeSin": {
         "id": "LeeSin",
         "key": "64",
         "name": "Lee Sin",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Leona": {
         "id": "Leona",
         "key": "89",
         "name": "Leona",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Lillia": {
         "id": "Lillia",
         "key": "876",
         "name": "Lillia",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Lissandra": {
         "id": "Lissandra",
         "key": "127",
         "name": "Lissandra",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Lucian": {
         "id": "Lucian",
         "key": "236",
         "name": "Lucian",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Lulu": {
         "id": "Lulu",
         "key": "117",
         "name": "Lulu",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Lux": {
         "id": "Lux",
         "key": "99",
         "name": "Lux",
-        "roles": [
-            "supp",
-            "mid"
-        ]
+        "roles": {
+            "supp": 0.5,
+            "mid": 0.4
+        }
     },
     "Malphite": {
         "id": "Malphite",
         "key": "54",
         "name": "Malphite",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Malzahar": {
         "id": "Malzahar",
         "key": "90",
         "name": "Malzahar",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Maokai": {
         "id": "Maokai",
         "key": "57",
         "name": "Maokai",
-        "roles": [
-            "supp",
-            "jg"
-        ]
+        "roles": {
+            "supp": 0.6,
+            "jg": 0.4
+        }
     },
     "MasterYi": {
         "id": "MasterYi",
         "key": "11",
         "name": "Master Yi",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Milio": {
         "id": "Milio",
         "key": "902",
         "name": "Milio",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "MissFortune": {
         "id": "MissFortune",
         "key": "21",
         "name": "Miss Fortune",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "MonkeyKing": {
         "id": "MonkeyKing",
         "key": "62",
         "name": "Wukong",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.5,
+            "top": 0.6
+        }
     },
     "Mordekaiser": {
         "id": "Mordekaiser",
         "key": "82",
         "name": "Mordekaiser",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Morgana": {
         "id": "Morgana",
         "key": "25",
         "name": "Morgana",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Naafiri": {
         "id": "Naafiri",
         "key": "950",
         "name": "Naafiri",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Nami": {
         "id": "Nami",
         "key": "267",
         "name": "Nami",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Nasus": {
         "id": "Nasus",
         "key": "75",
         "name": "Nasus",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Nautilus": {
         "id": "Nautilus",
         "key": "111",
         "name": "Nautilus",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Neeko": {
         "id": "Neeko",
         "key": "518",
         "name": "Neeko",
-        "roles": [
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "mid": 0.7,
+            "supp": 0.3
+        }
     },
     "Nidalee": {
         "id": "Nidalee",
         "key": "76",
         "name": "Nidalee",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Nilah": {
         "id": "Nilah",
         "key": "895",
         "name": "Nilah",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Nocturne": {
         "id": "Nocturne",
         "key": "56",
         "name": "Nocturne",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Nunu": {
         "id": "Nunu",
         "key": "20",
         "name": "Nunu & Willump",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Olaf": {
         "id": "Olaf",
         "key": "2",
         "name": "Olaf",
-        "roles": [
-            "top",
-            "jg"
-        ]
+        "roles": {
+            "top": 0.7,
+            "jg": 0.3
+        }
     },
     "Orianna": {
         "id": "Orianna",
         "key": "61",
         "name": "Orianna",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Ornn": {
         "id": "Ornn",
         "key": "516",
         "name": "Ornn",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Pantheon": {
         "id": "Pantheon",
         "key": "80",
         "name": "Pantheon",
-        "roles": [
-            "top",
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "top": 0.6,
+            "mid": 0.5,
+            "supp": 0.4
+        }
     },
     "Poppy": {
         "id": "Poppy",
         "key": "78",
         "name": "Poppy",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.4,
+            "top": 0.6,
+            "supp": 0.3
+        }
     },
     "Pyke": {
         "id": "Pyke",
         "key": "555",
         "name": "Pyke",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Qiyana": {
         "id": "Qiyana",
         "key": "246",
         "name": "Qiyana",
-        "roles": [
-            "mid",
-            "jg"
-        ]
+        "roles": {
+            "mid": 0.8,
+            "jg": 0.2
+        }
     },
     "Quinn": {
         "id": "Quinn",
         "key": "133",
         "name": "Quinn",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Rakan": {
         "id": "Rakan",
         "key": "497",
         "name": "Rakan",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Rammus": {
         "id": "Rammus",
         "key": "33",
         "name": "Rammus",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "RekSai": {
         "id": "RekSai",
         "key": "421",
         "name": "Rek'Sai",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Rell": {
         "id": "Rell",
         "key": "526",
         "name": "Rell",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Renata": {
         "id": "Renata",
         "key": "888",
         "name": "Renata Glasc",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Renekton": {
         "id": "Renekton",
         "key": "58",
         "name": "Renekton",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Rengar": {
         "id": "Rengar",
         "key": "107",
         "name": "Rengar",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.7,
+            "top": 0.3
+        }
     },
     "Riven": {
         "id": "Riven",
         "key": "92",
         "name": "Riven",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Rumble": {
         "id": "Rumble",
         "key": "68",
         "name": "Rumble",
-        "roles": [
-            "top",
-            "mid"
-        ]
+        "roles": {
+            "top": 0.7,
+            "mid": 0.3
+        }
     },
     "Ryze": {
         "id": "Ryze",
         "key": "13",
         "name": "Ryze",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.7,
+            "top": 0.5
+        }
     },
     "Samira": {
         "id": "Samira",
         "key": "360",
         "name": "Samira",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Sejuani": {
         "id": "Sejuani",
         "key": "113",
         "name": "Sejuani",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Senna": {
         "id": "Senna",
         "key": "235",
         "name": "Senna",
-        "roles": [
-            "supp",
-            "adc"
-        ]
+        "roles": {
+            "supp": 0.6,
+            "adc": 0.4
+        }
     },
     "Seraphine": {
         "id": "Seraphine",
         "key": "147",
         "name": "Seraphine",
-        "roles": [
-            "supp",
-            "mid"
-        ]
+        "roles": {
+            "supp": 0.5,
+            "mid": 0.5
+        }
     },
     "Sett": {
         "id": "Sett",
         "key": "875",
         "name": "Sett",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Shaco": {
         "id": "Shaco",
         "key": "35",
         "name": "Shaco",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Shen": {
         "id": "Shen",
         "key": "98",
         "name": "Shen",
-        "roles": [
-            "top",
-            "supp"
-        ]
+        "roles": {
+            "top": 0.9,
+            "supp": 0.2
+        }
     },
     "Shyvana": {
         "id": "Shyvana",
         "key": "102",
         "name": "Shyvana",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Singed": {
         "id": "Singed",
         "key": "27",
         "name": "Singed",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Sion": {
         "id": "Sion",
         "key": "14",
         "name": "Sion",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Sivir": {
         "id": "Sivir",
         "key": "15",
         "name": "Sivir",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Skarner": {
         "id": "Skarner",
         "key": "72",
         "name": "Skarner",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Sona": {
         "id": "Sona",
         "key": "37",
         "name": "Sona",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Soraka": {
         "id": "Soraka",
         "key": "16",
         "name": "Soraka",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Swain": {
         "id": "Swain",
         "key": "50",
         "name": "Swain",
-        "roles": [
-            "mid",
-            "supp",
-            "adc"
-        ]
+        "roles": {
+            "mid": 0.6,
+            "supp": 0.4,
+            "adc": 0.6
+        }
     },
     "Sylas": {
         "id": "Sylas",
         "key": "517",
         "name": "Sylas",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 0.7,
+            "top": 0.2
+        }
     },
     "Syndra": {
         "id": "Syndra",
         "key": "134",
         "name": "Syndra",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "TahmKench": {
         "id": "TahmKench",
         "key": "223",
         "name": "Tahm Kench",
-        "roles": [
-            "top",
-            "supp"
-        ]
+        "roles": {
+            "top": 0.6,
+            "supp": 0.4,
+            "mid": 0.1
+        }
     },
     "Taliyah": {
         "id": "Taliyah",
         "key": "163",
         "name": "Taliyah",
-        "roles": [
-            "mid",
-            "jg"
-        ]
+        "roles": {
+            "mid": 0.8,
+            "jg": 0.2
+        }
     },
     "Talon": {
         "id": "Talon",
         "key": "91",
         "name": "Talon",
-        "roles": [
-            "mid",
-            "jg"
-        ]
+        "roles": {
+            "mid": 0.8,
+            "jg": 0.2
+        }
     },
     "Taric": {
         "id": "Taric",
         "key": "44",
         "name": "Taric",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Teemo": {
         "id": "Teemo",
         "key": "17",
         "name": "Teemo",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 0.9,
+            "jg": 0.1
+        }
     },
     "Thresh": {
         "id": "Thresh",
         "key": "412",
         "name": "Thresh",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Tristana": {
         "id": "Tristana",
         "key": "18",
         "name": "Tristana",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Trundle": {
         "id": "Trundle",
         "key": "48",
         "name": "Trundle",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.5,
+            "top": 0.5
+        }
     },
     "Tryndamere": {
         "id": "Tryndamere",
         "key": "23",
         "name": "Tryndamere",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "TwistedFate": {
         "id": "TwistedFate",
         "key": "4",
         "name": "Twisted Fate",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Twitch": {
         "id": "Twitch",
         "key": "29",
         "name": "Twitch",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Udyr": {
         "id": "Udyr",
         "key": "77",
         "name": "Udyr",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Urgot": {
         "id": "Urgot",
         "key": "6",
         "name": "Urgot",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Varus": {
         "id": "Varus",
         "key": "110",
         "name": "Varus",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Vayne": {
         "id": "Vayne",
         "key": "67",
         "name": "Vayne",
-        "roles": [
-            "adc",
-            "top"
-        ]
+        "roles": {
+            "adc": 0.6,
+            "top": 0.2
+        }
     },
     "Veigar": {
         "id": "Veigar",
         "key": "45",
         "name": "Veigar",
-        "roles": [
-            "mid",
-            "adc"
-        ]
+        "roles": {
+            "mid": 0.8,
+            "adc": 0.7
+        }
     },
     "Velkoz": {
         "id": "Velkoz",
         "key": "161",
         "name": "Vel'Koz",
-        "roles": [
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "mid": 0.5,
+            "supp": 0.5
+        }
     },
     "Vex": {
         "id": "Vex",
         "key": "711",
         "name": "Vex",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.1
+        }
     },
     "Vi": {
         "id": "Vi",
         "key": "254",
         "name": "Vi",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Viego": {
         "id": "Viego",
         "key": "234",
         "name": "Viego",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Viktor": {
         "id": "Viktor",
         "key": "112",
         "name": "Viktor",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Vladimir": {
         "id": "Vladimir",
         "key": "8",
         "name": "Vladimir",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.5,
+            "top": 0.5
+        }
     },
     "Volibear": {
         "id": "Volibear",
         "key": "106",
         "name": "Volibear",
-        "roles": [
-            "top",
-            "jg"
-        ]
+        "roles": {
+            "top": 0.5,
+            "jg": 0.5
+        }
     },
     "Warwick": {
         "id": "Warwick",
         "key": "19",
         "name": "Warwick",
-        "roles": [
-            "jg",
-            "top"
-        ]
+        "roles": {
+            "jg": 0.7,
+            "top": 0.5
+        }
     },
     "Xayah": {
         "id": "Xayah",
         "key": "498",
         "name": "Xayah",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Xerath": {
         "id": "Xerath",
         "key": "101",
         "name": "Xerath",
-        "roles": [
-            "mid",
-            "supp"
-        ]
+        "roles": {
+            "mid": 0.6,
+            "supp": 0.3
+        }
     },
     "XinZhao": {
         "id": "XinZhao",
         "key": "5",
         "name": "Xin Zhao",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Yasuo": {
         "id": "Yasuo",
         "key": "157",
         "name": "Yasuo",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.4,
+            "top": 0.4
+        }
     },
     "Yone": {
         "id": "Yone",
         "key": "777",
         "name": "Yone",
-        "roles": [
-            "mid",
-            "top"
-        ]
+        "roles": {
+            "mid": 0.5,
+            "top": 0.5
+        }
     },
     "Yorick": {
         "id": "Yorick",
         "key": "83",
         "name": "Yorick",
-        "roles": [
-            "top"
-        ]
+        "roles": {
+            "top": 1.0
+        }
     },
     "Yuumi": {
         "id": "Yuumi",
         "key": "350",
         "name": "Yuumi",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Zac": {
         "id": "Zac",
         "key": "154",
         "name": "Zac",
-        "roles": [
-            "jg"
-        ]
+        "roles": {
+            "jg": 1.0
+        }
     },
     "Zed": {
         "id": "Zed",
         "key": "238",
         "name": "Zed",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 0.8
+        }
     },
     "Zeri": {
         "id": "Zeri",
         "key": "221",
         "name": "Zeri",
-        "roles": [
-            "adc"
-        ]
+        "roles": {
+            "adc": 1.0
+        }
     },
     "Ziggs": {
         "id": "Ziggs",
         "key": "115",
         "name": "Ziggs",
-        "roles": [
-            "mid",
-            "adc"
-        ]
+        "roles": {
+            "mid": 0.7,
+            "adc": 0.2
+        }
     },
     "Zilean": {
         "id": "Zilean",
         "key": "26",
         "name": "Zilean",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
     },
     "Zoe": {
         "id": "Zoe",
         "key": "142",
         "name": "Zoe",
-        "roles": [
-            "mid"
-        ]
+        "roles": {
+            "mid": 1.0
+        }
     },
     "Zyra": {
         "id": "Zyra",
         "key": "143",
         "name": "Zyra",
-        "roles": [
-            "supp"
-        ]
+        "roles": {
+            "supp": 1.0
+        }
+    },
+    "Mel": {
+        "id": "Mel",
+        "key": "800",
+        "name": "Mel",
+        "roles": {
+            "supp": 0.1,
+            "mid": 0.8
+        }
     }
 }
